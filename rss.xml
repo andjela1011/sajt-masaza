@@ -1,0 +1,17 @@
+<rss version="2.0">
+    <channel>
+        <title>Salon snova</title>
+        <link>https://andjela1011.github.io/sajt-masaza/index.html</link>
+        <description>Važne informacije</description>
+    <item>
+        <title>Masaze</title>
+        <link>https://andjela1011.github.io/sajt-masaza/masaze.html</link>
+        <description>Pogledajte nase masaze</description>
+    </item>
+    <item>
+        <title>Kontakt</title>
+        <link>https://andjela1011.github.io/sajt-masaza/kontakt.html</link>
+        <description>Možete se prijaviti za nove informacije</description>
+    </item>
+    </channel>
+</rss>

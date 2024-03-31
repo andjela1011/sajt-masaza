@@ -1,0 +1,105 @@
+@media screen and (max-width: 321px) {
+    #maseri .card{
+        width: 90%;
+    }
+    .blok{
+        margin-bottom: 20px;
+        width:90%;
+    }
+    #termin p:nth-child(3){
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 425px) {
+    #dodaj{
+        display: flex;
+        justify-content: center !important;
+    }
+    #logo h1{
+        font-size: 20px;
+    }
+    #logo img{
+        width:40px;
+    }
+    .naslov h2{
+        margin-bottom: 30px;
+    }
+    .najtrazenije{
+        font-size: 14px;
+    }
+    .blok{
+        margin-bottom: 20px;
+        width:90%;
+    }
+    #salon p{
+        font-size: 16px;
+    }
+    #maseri .card{
+        width: 70%;
+    }
+    #recenzije a{
+        font-size: 8px;
+    }
+    #termin h1{
+        margin-bottom: 10px;
+        font-size: 24px;
+    }
+    #termin p:nth-child(3){
+        font-size: 24px;
+    }
+    .contact .row{
+        margin-top: 0px;
+    }
+    .contact input,.contact select,.contact textarea{
+        margin-bottom: 10px;
+    }
+    .picture img{
+        width:80%;
+    }
+}
+@media screen and (max-width: 768px) {
+    #slika-masaza img{
+        width:70%;
+    }
+    #salon p{
+        font-size: 14px;
+    }
+    #maseri .card .card-text{
+        font-size: 12px;
+    }
+    .btn {
+        padding:3px 6px;
+        margin-bottom: 10px;
+    }
+    #recenzije .card{
+        margin-bottom: 20px;
+        width: 90%;
+    }
+    #slika-masaza .centriranje{
+        margin-bottom: 20px;
+    }
+    #hover-img{
+        width:70%;
+    }
+    .table thead tr th{
+        font-size: 18px;
+    }
+    .table tbody tr td{
+        font-size: 14px;
+    }
+    #o-maserima .centriranje{
+        margin-bottom: 20px;
+    }
+    #termin p:nth-child(2){
+        font-size: 14px;
+    }
+    .contact input,.contact select,.contact textarea{
+        width: 100%;
+    }
+    .about p{
+        font-size: 14px;
+    }
+    .about span{
+        font-size: 16px;
+    }
+}
