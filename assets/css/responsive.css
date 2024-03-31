@@ -1,8 +1,0 @@
-@media screen and (max-width:425px) {
-    #recenzije .card{
-        width:30rem;
-    }
-    body{
-        background-color: red;
-    }
-}
